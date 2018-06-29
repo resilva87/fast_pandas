@@ -1,4 +1,4 @@
 """
 
 """
-from .core import apply
+from .core import apply, FunctionObject
